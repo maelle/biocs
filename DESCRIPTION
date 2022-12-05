@@ -13,3 +13,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/maelle/biocs
+BugReports: https://github.com/maelle/biocs/issues
